@@ -32,7 +32,7 @@
 <br>
 
 # ÍNDICE
-## UNIDAD 1
+# UNIDAD 1
 ## Contenidos
 * [**Contenidos**](./Unidad-1/Contenidos.md)
 ## APE (INDIVIDUAL)
@@ -51,5 +51,17 @@
 * [**APE 1 FASE 5**](./Unidad-1/APE%205%20GRUPAL%20_compress(2)%20(1).pdf)
 * [**APE 1 FASE 6**](./Unidad-1/APE_6_GRUPAL.pdf)
 
+## Ejercicio Aplicado
+* [**EJERCICIO APLICADO**](./EJERCICIO%20APLICADO.pdf)
+
+## Reflexión Personal
+* [**Reflexión personal**](./Reflexi%C3%B3n%20personal.pdf)
+## ABP
+* [**U1 ABP Jaramillo Yuleisy**](./U1_ABP_Jaramillo_Yuleisy%20(4).pdf)
+
+
 ## Ejercicios en clase
 * [**Álgebra Booleana**](./Ejercicios%20en%20clase/Algebra_Booleana.pdf)
+
+# UNIDAD 2
+

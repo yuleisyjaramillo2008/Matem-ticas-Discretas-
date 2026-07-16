@@ -31,54 +31,63 @@
 
 <br>
 
-# ÍNDICE
-# UNIDAD 1
-## Contenidos
-* [**Contenidos**](./Unidad-1/Contenidos.md)
-## APE (INDIVIDUAL)
-* [**APE 1 FASE 1**](./Unidad-1/APE_1_FASE_1_INDIVIDUAL%201.pdf)
-* [**APE 1 FASE 2**](./Unidad-1/APE_1_FASE_2_INDIVIDUAL.pdf) 
-* [**APE 1 FASE 3**](./Unidad-1/APE_1_FASE_3_INDIVIDUAL.pdf)
-* [**APE 1 FASE 4**](./Unidad-1/APE_1_FASE_4_INDIVIDUAL.pdf)
-* [**APE 1 FASE 5**](./Unidad-1/APE_1_FASE_5_INDIVIDUAL.pdf)
-## ACD
-* [**ACD 1**](./ACD%20Matemáticas%20discretas_compressed%20(1)%20(2).pdf)
-## APE (GRUPAL)
-* [**APE 1 FASE 1**](./Unida1/APE%201%20(grupal)%20Yuleisy%20Jaramillo%20(5).pdf)
-* [**APE 1 FASE 2**](./Unidad1/APE_1_FASE_2_GRUPAL_JARAMILLO%20(2).pdf)
-* [**APE 1 FASE 3**](./Unidad-1/APE%203%20DISCRETAS%20_compress%20(1).pdf)
-* [**APE 1 FASE 4**](./Unidad-1/APE_1_FASE_4_GRUPAL.pdf)
-* [**APE 1 FASE 5**](./Unidad-1/APE%205%20GRUPAL%20_compress(2)%20(1).pdf)
-* [**APE 1 FASE 6**](./Unidad-1/APE_6_GRUPAL.pdf)
+# 📋 ÍNDICE DE UNIDADES
 
-## Ejercicio Aplicado
-* [**EJERCICIO APLICADO**](./EJERCICIO%20APLICADO.pdf)
+---
 
-## Reflexión Personal
-* [**Reflexión personal**](./Reflexi%C3%B3n%20personal.pdf)
-## ABP
-* [**U1 ABP Jaramillo Yuleisy**](./U1_ABP_Jaramillo_Yuleisy%20(4).pdf)
+# 📁 UNIDAD 1
 
+### 📖 CONTENIDOS
+* [**Contenidos de la Unidad 1**](./Unidad-1/Contenidos.md)
 
+### 🏛️ ACD (Aprendizaje en Contacto con el Docente)
+* [**ACD 1 — Matemáticas Discretas**](./Unidad-1/ACD%20Matemáticas%20discretas_compressed%20(1)%20(2).pdf)
 
-# UNIDAD 2
-## CONTENIDOS
-* [**Contenidos**](./Unidad-2/Contenidos.md)
-## AA
-* [**AA**](./Unidad-2/AA%20MD%20_U2.pdf)
-## ACD
+### 🧑‍💻 APE (Aprendizaje Práctico Experimental - INDIVIDUAL)
+* [**APE 1 FASE 1 (Individual)**](./Unidad-1/APE_1_FASE_1_INDIVIDUAL%201.pdf)
+* [**APE 1 FASE 2 (Individual)**](./Unidad-1/APE_1_FASE_2_INDIVIDUAL.pdf) 
+* [**APE 1 FASE 3 (Individual)**](./Unidad-1/APE_1_FASE_3_INDIVIDUAL.pdf)
+* [**APE 1 FASE 4 (Individual)**](./Unidad-1/APE_1_FASE_4_INDIVIDUAL.pdf)
+* [**APE 1 FASE 5 (Individual)**](./Unidad-1/APE_1_FASE_5_INDIVIDUAL.pdf)
+
+### 👥 APE (Aprendizaje Práctico Experimental - GRUPAL)
+* [**APE 1 FASE 1 (Grupal - Yuleisy)**](./Unidad-1/APE%201%20(grupal)%20Yuleisy%20Jaramillo%20(5).pdf)
+* [**APE 1 FASE 2 (Grupal - Jaramillo)**](./Unidad-1/APE_1_FASE_2_GRUPAL_JARAMILLO%20(2).pdf)
+* [**APE 1 FASE 3 (Grupal - Discretas)**](./Unidad-1/APE%203%20DISCRETAS%20_compress%20(1).pdf)
+* [**APE 1 FASE 4 (Grupal)**](./Unidad-1/APE_1_FASE_4_GRUPAL.pdf)
+* [**APE 1 FASE 5 (Grupal)**](./Unidad-1/APE%205%20GRUPAL%20_compress(2)%20(1).pdf)
+* [**APE 1 FASE 6 (Grupal)**](./Unidad-1/APE_6_GRUPAL.pdf)
+
+### 🚀 EVALUACIONES, COMPLEMENTOS Y ABP
+* [**Ejercicio Aplicado**](./EJERCICIO%20APLICADO.pdf)
+* [**Reflexión Personal**](./Reflexi%C3%B3n%20personal.pdf)
+* [**U1 ABP — Jaramillo Yuleisy**](./U1_ABP_Jaramillo_Yuleisy%20(4).pdf)
+
+---
+
+# 📁 UNIDAD 2
+
+### 📖 CONTENIDOS
+* [**Contenidos de la Unidad 2**](./Unidad-2/Contenidos.md)
+
+### 🏛️ ACD (Aprendizaje en Contacto con el Docente)
 * [**ACD 1 U2**](./Unidad-2/ACD%201_U2.pdf)
-## APE (INDIVIDUAL) 
-* [**APE 1 Y 2**](./Unidad-2/APE%201%20Y%202.pdf)
-* [**APE 3 Y 4**](./Unidad-2/APE_3%20Y%204.pdf)
-## APE (GRUPAL) 
-* [**APE 2 FASE 1 Y 2**](./Unidad-2/UNIDAD_2_APE_2_FASE%201%20Y%202%20(GRUPAL)%20(3).pdf)
-* [**APE 2 FASE 3 Y 4**](./Unidad-2/APE%20MATE_DIS%20FASE%203-4%20(1.1)_compressed(pdfgear.com)%20(2).pdf)
-## Ejercicios Aplicados 
-* [**Algebra Boleana**](./Unidad-2/Algebra_Booleana.pdf)
-* [**Ejercicios Clase**](./Unidad-2/EJERCICIOS_INDIVIDUALES.pdf)
-## ABP
-* [**Ensayo**](./Unidad-2/Ensayo%20(1).pdf)
+
+### 🧑‍💻 APE (Aprendizaje Práctico Experimental - INDIVIDUAL)
+* [**APE 1 Y 2 (Individual)**](./Unidad-2/APE%201%20Y%202.pdf)
+* [**APE 3 Y 4 (Individual)**](./Unidad-2/APE_3%20Y%204.pdf)
+
+### 👥 APE (Aprendizaje Práctico Experimental - GRUPAL)
+* [**APE 2 FASE 1 Y 2 (Grupal)**](./Unidad-2/UNIDAD_2_APE_2_FASE%201%20Y%202%20(GRUPAL)%20(3).pdf)
+* [**APE 2 FASE 3 Y 4 (Grupal)**](./Unidad-2/APE%20MATE_DIS%20FASE%203-4%20(1.1)_compressed(pdfgear.com)%20(2).pdf)
+
+### ✍️ AA (Aprendizaje Autónomo)
+* [**AA — Matemáticas Discretas U2**](./Unidad-2/AA%20MD%20_U2.pdf)
+
+### 🚀 EVALUACIONES, COMPLEMENTOS Y ABP
+* [**Ejercicio Aplicado — Álgebra Booleana**](./Unidad-2/Algebra_Booleana.pdf)
+* [**Ejercicios de Clase (Individuales)**](./Unidad-2/EJERCICIOS_INDIVIDUALES.pdf)
+* [**Ensayo ABP**](./Unidad-2/Ensayo%20(1).pdf)
 
 
 

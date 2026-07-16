@@ -1,6 +1,6 @@
 <div align="center">
   <!-- 1. LOGOTIPO -->
-  <img src="Imagenes/Universidad-Nacional-de-Loja-UNL.png" width="120" alt="Logo de la Universidad">
+  <img src="Imagnees/IconoUniversisdad.png" width="120" alt="Logo de la Universidad">
 
   <!-- 2. INSTITUCIÓN, FACULTAD Y CARRERA -->
   <h1>UNIVERSIDAD NACIONAL DE LOJA</h1>

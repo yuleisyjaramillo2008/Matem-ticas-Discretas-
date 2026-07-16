@@ -71,6 +71,9 @@
 ## APE (INDIVIDUAL) 
 * [**APE 1 Y 2**](./Unidad-2/APE%201%20Y%202.pdf)
 * [**APE 3 Y 4**](./Unidad-2/APE_3%20Y%204.pdf)
+## APE (GRUPAL) 
+* [**APE 2 FASE 1 Y 2**](./Unidad-2/UNIDAD_2_APE_2_FASE%201%20Y%202%20(GRUPAL)%20(3).pdf)
+* [**APE 2 FASE 3 Y 4**](./Unidad-2/APE%20MATE_DIS%20FASE%203-4%20(1.1)_compressed(pdfgear.com)%20(2).pdf)
 ## Ejercicios Aplicados 
 * [**Algebra Boleana**](./Unidad-2/Algebra_Booleana.pdf)
 * [**Ejercicios Clase**](./Unidad-2/EJERCICIOS_INDIVIDUALES.pdf)

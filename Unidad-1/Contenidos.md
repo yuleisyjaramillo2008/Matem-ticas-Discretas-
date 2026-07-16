@@ -5,3 +5,9 @@ Cabe señalar que las proposiciones son la base de la lógica matemática al per
 ## Tipos de proposiciones 
 Hay dos formas de clasificar las proposiciones: <br>
 + Según su estructura:
+* Según su estructura:
+
+![Carátula](Captura%20de%20pantalla%202026-06-15%20075058.png)
+
+
+

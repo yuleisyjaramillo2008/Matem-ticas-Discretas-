@@ -60,8 +60,17 @@
 * [**U1 ABP Jaramillo Yuleisy**](./U1_ABP_Jaramillo_Yuleisy%20(4).pdf)
 
 
-## Ejercicios en clase
-* [**Álgebra Booleana**](./Ejercicios%20en%20clase/Algebra_Booleana.pdf)
 
 # UNIDAD 2
+## CONTENIDOS
+* [**Contenidos**](./Unidad-2/Contenidos.md)
+## ACD
+* [**ACD 1 U2**](./Unidad-2/ACD%201_U2.pdf)
+## APE (INDIVIDUAL) 
+* [**APE 1 Y 2**](./Unidad-2/APE%201%20Y%202.pdf)
+* [**APE 3 Y 4**](./Unidad-2/APE_3%20Y%204.pdf)
+## Ejercicios Aplicados 
+* [**Algebra Boleana**](./Unidad-2/Algebra_Booleana.pdf)
+* [**Ejercicios Clase**](./Unidad-2/EJERCICIOS_INDIVIDUALES.pdf)
+
 

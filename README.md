@@ -32,12 +32,24 @@
 <br>
 
 # ÍNDICE
+## UNIDAD 1
 ## Contenidos
 ## APE (INDIVIDUAL)
-* [**APE 1 Y 2**](./APE/APE%201%20Y%202.pdf)
-* [**APE 3 Y 4**](./APE/APE%203%20Y%204.pdf)
+* [**APE 1 FASE 1**](./Unidad-1/APE_1_FASE_1_INDIVIDUAL%201.pdf)
+* [**APE 1 FASE 2**](./Unidad-1/APE_1_FASE_2_INDIVIDUAL.pdf) 
+* [**APE 1 FASE 3**](./Unidad-1/APE_1_FASE_3_INDIVIDUAL.pdf)
+* [**APE 1 FASE 4**](./Unidad-1/APE_1_FASE_4_INDIVIDUAL.pdf)
+* [**APE 1 FASE 5**](./Unidad-1/APE_1_FASE_5_INDIVIDUAL.pdf)
 ## ACD
-* [**ACD 1**](./ACD/ACD%201_U2.pdf)
+* [**ACD 1**](./ACD%20Matemáticas%20discretas_compressed%20(1)%20(2).pdf)
+## APE (GRUPAL)
+* [**APE 1 FASE 1**](./Unida1/APE%201%20(grupal)%20Yuleisy%20Jaramillo%20(5).pdf)
+* [**APE 1 FASE 2**](./Unidad1/APE_1_FASE_2_GRUPAL_JARAMILLO%20(2).pdf)
+* [**APE 1 FASE 3**](./Unidad-1/APE%203%20DISCRETAS%20_compress%20(1).pdf)
+* [**APE 1 FASE 4**](./Unidad-1/APE_1_FASE_4_GRUPAL.pdf)
+* [**APE 1 FASE 5**](./Unidad-1/APE%205%20GRUPAL%20_compress(2)%20(1).pdf)
+* [**APE 1 FASE 6**](./Unidad-1/APE_6_GRUPAL.pdf)
+
 ## AA
 ## Ejercicios en clase
 * [**Álgebra Booleana**](./Ejercicios%20en%20clase/Algebra_Booleana.pdf)

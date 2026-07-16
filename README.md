@@ -14,7 +14,7 @@
 
   <!-- 4. MATERIA, CICLO Y UNIDAD -->
   <h2>MATEMÁTICAS DISCRETAS</h2>
-  <h5>Ciclo 1 - Unidad 2</h5>
+  
   <br>
 
   <!-- 5. DATOS PERSONALES -->

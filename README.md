@@ -94,17 +94,18 @@
 # 📁 UNIDAD 3
 
 ### 📖 CONTENIDOS
-* [**Contenidos**](./Unidad_3/Contenidos.md)
+* [**Contenidos**](./Unidad-3/Contenidos.md)
 
 ### 🧑‍💻 APE (Aprendizaje Práctico Experimental)
-* [**APE – Fase 1 al 5**](./Unidad_3/APE_FASE_1_AL_5.pdf)
+* [**APE – Fase 1 al 5**](./Unidad-3/APE_%20FASE%201%20AL%205.pdf)
 
 ### ✍️ AA (Aprendizaje Autónomo)
-* [**AA – Árboles**](./Unidad_3/AA_ARBOLES.pdf)
-* [**AA – Grafos**](./Unidad_3/AA_MD_U2.pdf)
+* [**AA – Árboles**](./Unidad-3/AA_%C3%81RBOLES.pdf)
+* [**AA – Grafos**](./Unidad-3/AA%20MD%20_U2.pdf)
 
 ### 🏛️ ACD (Aprendizaje en Contacto con el Docente)
-* [**ACD 1 – Diapositivas – Grafos**](./Unidad_3/ACD_Diapositivas.pdf)
-* [**ACD 2 – Diapositivas – Árboles**](./Unidad_3/Presentacion_de_Matematicas_Educativa_Papel_Libreta_Doodle_Amarillo.pdf)
+* [**ACD 1 – Diapositivas**](./Unidad-3/ACD_Diapositivas%20.pdf)
+* [**Presentación de Matemáticas Educativa**](./Unidad-3/Presentaci%C3%B3n%20de%20Matem%C3%A1ticas%20Educativa%20Papel%20Libreta%20Doodle%20Amaril...)
+
 
 

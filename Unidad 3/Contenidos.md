@@ -1,3 +1,4 @@
+<a href="../README.md"><code>◀ Regresar al Índice (README)</code></a>
 
 # 🕸️ I. Teoría de Grafos
 
@@ -335,6 +336,14 @@ Los recorridos son algoritmos diseñados para visitar de manera sistemática y s
 ## 🍂 3. Recorrido en Postorden (IDN)
 
 <details>
+
+<br>
+
+
+<p align="right">
+  <a href="../README.md"><code>◀ Regresar al Índice</code></a>
+  <a href="#top"><code>▲ Subir</code></a>
+</p>
 <summary><b>Click para expandir la secuencia de Postorden</b></summary>
 <br>
 

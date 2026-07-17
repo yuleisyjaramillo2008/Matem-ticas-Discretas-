@@ -1,81 +1,132 @@
-# RESUMEN TEÓRICO
-## Definición de proposición 
-La proposición lógica en si es una oración o enunciado, al cual se le puede dar un valor de verdad; “V” o “F”, es decir que la proposición es aquella que niega o afirma algo, pero no las dos cosas a la vez, esto también hace que se diferencien de otras oraciones, preguntas o exclamaciones las cuales no tienen un valor de verdad.  <br>
-Cabe señalar que las proposiciones son la base de la lógica matemática al permitirnos operar a manera de algebra frases de nuestro lenguaje natural. <br>
-## Tipos de proposiciones 
-Hay dos formas de clasificar las proposiciones: <br>
-+ Según su estructura:
+<a href="../README.md"><code>◀ Regresar al Índice (README)</code></a>
+# 🧠 RESUMEN TEÓRICO: LÓGICA PROPOSICIONAL
+
+A continuación se presenta el marco conceptual y práctico para el análisis lógico matemático, abarcando desde las definiciones básicas hasta las leyes lógicas y reglas de inferencia para la simplificación de enunciados.
+
+---
+
+## 📌 1. Definición de Proposición
+
+Una **proposición lógica** es un enunciado u oración declarativa a la cual se le puede asignar de forma inequívoca un único **valor de verdad**: ya sea **Verdadero (V)** o **Falso (F)**.
+
+> ⚠️ **Regla Fundamental:** Una proposición afirma o niega algo, pero **jamás** puede poseer ambos valores simultáneamente. Esto las diferencia de las preguntas, exclamaciones o mandatos, las cuales carecen de valor de verdad.
+
+*Las proposiciones constituyen la base fundamental de la lógica matemática, permitiendo modelar frases del lenguaje natural y operarlas mediante estructuras algebraicas.*
+
+---
+
+## 🗂️ 2. Tipos de Proposiciones
+
+Podemos clasificar las estructuras de pensamiento bajo dos metodologías esenciales:
+
+### A. Según su Estructura
+Determina cómo se construyen los enunciados en el documento.
+
+* **Proposiciones Simples:** Expresiones directas sin conectores.
+* **Proposiciones Compuestas:** Unión de dos o más enunciados mediante conectivas.
 
 ![Carátula](Captura%20de%20pantalla%202026-06-15%20075058.png)
 
-+ Según su resultado:
-**Tautología**: Es una proposición compuesta que resulta VERDADERA, en todas las posibles combinaciones de valores de verdad que puedan tener sus componentes, esto dependiendo claro de la relación que se establezca entre sus elementos.
+---
 
+### B. Según su Resultado (Tablas de Verdad)
+
+<details open>
+<summary><b>📐 Tautología</b></summary>
+<br>
+
+Es una proposición compuesta que resulta estrictamente **VERDADERA** en la totalidad de sus combinaciones posibles, sin importar los valores de verdad individuales de las variables que la componen.
+<br><br>
 ![Carátula](Captura%20de%20pantalla%202026-06-15%20075111.png)
+</details>
 
-**Contradicción:** Es lo opuesto a la tautología, es decir, que es cuando una proposición toma el valor de verdad de FALSO, lo cual está de igual manera determinado por la relación establecida entre las componentes de la operación lógica, en otras palabras, sin importar todos los posibles casos de valor de verdad que pueda tener los componentes de una proposición esta siempre será falsa.
+<details>
+<summary><b>❌ Contradicción</b></summary>
+<br>
 
+Representa el opuesto absoluto de la tautología. Ocurre cuando la evaluación final del enunciado da como resultado **FALSO** para cada uno de los escenarios lógicos evaluados.
+<br><br>
 ![Carátula](Captura%20de%20pantalla%202026-06-15%20075117.png)
+</details>
 
-**Contingencia:** Es el caso más común en las proporciones, y consiste en tener el valor de verdad VERDADERO y FALSO depende del valor de verdad que puede tenar tener tanto el componente como la operación lógica después de establecer la relación lógica. Es decir, a una contingencia se la puede observar tanto en una proposición simple como en una compuesta.
+<details>
+<summary><b>⚡ Contingencia</b></summary>
+<br>
 
+Es la situación más habitual en el análisis cotidiano. Ocurre cuando la columna resultante final de la matriz contiene combinaciones mezcladas de valores **Verdaderos (V)** y **Falsos (F)** alternados.
+<br><br>
 ![Carátula](Captura%20de%20pantalla%202026-06-15%20075129.png)
+</details>
 
-## Conectores lógicos
+---
+
+## 🔗 3. Conectores Lógicos
+
 ### ¿Qué son?
-Los conectores lógicos también llamados conectivos son aquellos símbolos, palabras o expresiones que se encargan de unir dos o más proposiciones simples para formar una proposición compuesta. <br>
-Tenemos los siguientes conectores
+Los conectores (o conectivos) lógicos son símbolos y operadores formales encargados de entrelazar proposiciones simples para estructurar expresiones compuestas complejas.
 
 ![Carátula](Captura%20de%20pantalla%202026-06-15%20075150.png)
 
-+ **Negación:** La proposición cambia de valor de verdad.
+### 📊 Especificaciones del Comportamiento Operacional
 
-![Carátula](Captura%20de%20pantalla%202026-06-15%20075158.png)
+| Operador | Operación Lógica | Regla de Oro Matemática | Captura Visual |
+| :---: | :---: | :--- | :---: |
+| **`¬`** | **Negación** | Invierte el valor de verdad de la variable actual. | ![Carátula](Captura%20de%20pantalla%202026-06-15%20075158.png) |
+| **`∧`** | **Conjunción** | Es **Verdadera (V)** únicamente si todas sus componentes son verdaderas. | ![Carátula](Captura%20de%20pantalla%202026-06-15%20075205.png) |
+| **`∨`** | **Disyunción** | Es **Falsa (F)** únicamente si todas sus componentes son falsas. | ![Carátula](Captura%20de%20pantalla%202026-06-15%20075210.png) |
+| **`→`** | **Condicional** | Es **Falsa (F)** solo si el antecedente es Verdadero y el consecuente Falso. | ![Carátula](Captura%20de%20pantalla%202026-06-15%20075216.png) |
+| **`↔`** | **Bicondicional** | Es **Verdadera (V)** si ambas variables poseen valores idénticos de entrada. | ![Carátula](Captura%20de%20pantalla%202026-06-15%20075223.png) |
 
-+ **Conjunción:** Solo cuando todas las componentes son verdaderas la respuesta es verdadera.
+---
 
-![Carátula](Captura%20de%20pantalla%202026-06-15%20075205.png)
+## 📋 4. Tablas de Verdad
 
-+ **Disyunción:** Solo cuando todas las componentes son falsas la respuesta es falsa.
+Una tabla de verdad es una matriz de análisis algorítmico gráfico que sirve para mapear y visualizar el comportamiento de una función lógica frente a todas las combinaciones binarias posibles.
 
-![Carátula](Captura%20de%20pantalla%202026-06-15%20075210.png)
+### 🛠️ Guía Metodológica Paso a Paso
 
-+ **Condicional:** Solo cuando la primera componente es verdadera y las segunda es falsa la condición es falsa.
+```text
+  [Paso 1: Contar Variables] ➔ [Paso 2: Generar Combinaciones] ➔ [Paso 3: Aplicar Jerarquías] ➔ [Paso 4: Operar Conectores] ➔ [Paso 5: Clasificar]
+```
 
-![Carátula](Captura%20de%20pantalla%202026-06-15%20075216.png)
+1. **Identificar Variables:** Contar el número de variables únicas ($n$) y calcular la extensión física de las filas de la tabla mediante la fórmula exponencial: `$2^n$`.
+2. **Estructurar Combinaciones:** Rellenar las columnas de las variables de forma balanceada alternando Verdaderos (V) y Falsos (F).
+3. **Jerarquía Lógica:** Descomponer el problema evaluando primero los paréntesis `()`, luego corchetes `[]` y finalmente llaves `{}`.
+4. **Cálculo de Operaciones:** Resolver las subexpresiones aplicando estrictamente las reglas de oro de los conectores analizados.
+5. **Clasificación Formal:** Diagnosticar el resultado de la columna final para catalogarla como Tautología, Contradicción o Contingencia.
 
-+ **Bicondicional:** Es verdadero únicamente si ambas son verdaderas o ambas son falsas a la vez.
-
-![Carátula](Captura%20de%20pantalla%202026-06-15%20075223.png)
-
-## Tablas de verdad
-### ¿Qué son?
-La tabla se verdad es una herramienta una nos sirve para visualizar todos los posibles resultados o valores de verdad que puede tener una proposición. <br>
-Pasos a seguir para hacer una preposición
-+ **Paso 1:** Identificar la cantidad de variables (n) y remplazar en la fórmula 2n para saber la cantidad de filas que tendrá la tabla.
-+ **Paso 2:** combinar todas las posibilidades de Verdadero (V) y Falso (F).
-+ **Paso 3:** Resolver siguiendo el orden de jerarquía de las proposiciones.
-+ **Paso 4:** Aplicar las reglas de los conectores.
-+ **Paso 5:** Clasificar si es tautología, contingencia o contradicción.
-Ejemplo: <br>
-((p ˄q) → p) n=2 <br>
-2^n = 2^2 = 4 <br>
+### 🔍 Ejemplo de Demostración Práctica
+Dada la expresión: `((p ∧ q) → p)`
+* **Número de variables ($n$):** 2
+* **Filas calculadas:** `$2^2 = 4$`
 
 ![Carátula](Captura%20de%20pantalla%202026-06-15%20075238.png)
 
-Esta proposición es una tautología.
+> **Resultado del Análisis:** Al tener una columna de salida compuesta puramente por estados verdaderos, se concluye formalmente que esta proposición constituye una **Tautología**.
 
-## Leyes proposicionales
-### ¿Qué son?
-Son reglas y equivalencias lógicas que permiten simplificar proposiciones compuestas en formas más sencillas.
+---
+
+## 📜 5. Leyes Proposicionales
+
+Son equivalencias e identidades lógicas formales que permiten transformar y reescribir ecuaciones lógicas complejas en expresiones minimalistas equivalentes, reduciendo el costo algorítmico.
 
 ![Carátula](Captura%20de%20pantalla%202026-06-15%20075246.png)
 
-## Reglas de inferencia
-### ¿Qué son?
-Es una operación lógica que nos permite a partir de dos o más proposiciones sacar una conclusión.
+---
+
+## 🧠 6. Reglas de Inferencia
+
+Constituyen reglas lógicas y mecanismos formales deductivos que nos permiten estructurar silogismos y razonamientos válidos para derivar una **conclusión lógica** irrebatible a partir de un conjunto inicial de premisas.
 
 ![Carátula](Captura%20de%20pantalla%202026-06-15%20075253.png)
 
+
+<br>
+
+
+<p align="right">
+  <a href="../README.md"><code>◀ Regresar al Índice</code></a>
+  <a href="#top"><code>▲ Subir</code></a>
+</p>
 
 

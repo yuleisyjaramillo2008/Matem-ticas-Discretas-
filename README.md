@@ -39,7 +39,6 @@
 
 ---
 
-# 📋 ÍNDICE DE UNIDADES
 
 
 # 📋 ÍNDICE DE UNIDADES

@@ -31,6 +31,17 @@
 
 <br>
 
+---
+
+### 📂 Organización y Guía de Navegación
+
+> Este portafolio digital está organizado de manera sistemática y modular para facilitar su revisión académica. Cada unidad se encuentra dividida estrictamente en un apartado de **Contenidos** —donde se presenta un resumen teórico detallado de los temas abordados— seguido por las secciones de **ACD** (Aprendizaje en Contacto con el Docente), **APE** (Aprendizaje Práctico Experimental), **AA** (Aprendizaje Autónomo), y el cierre con el **ABP** (Aprendizaje Basado en Problemas) junto con el **Examen**. Para visualizar cualquiera de las tareas, documentos o evidencias de aprendizaje, usted únicamente **debe hacer clic en cada uno de los enlaces** del índice; el sistema de GitHub lo redireccionará de forma inmediata y automática a la actividad correspondiente guardada en el repositorio.
+
+---
+
+# 📋 ÍNDICE DE UNIDADES
+
+
 # 📋 ÍNDICE DE UNIDADES
 
 ---

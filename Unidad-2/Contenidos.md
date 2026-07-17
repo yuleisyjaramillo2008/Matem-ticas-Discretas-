@@ -1,3 +1,91 @@
+# 🎛️ Fundamentos de Circuitos y Optimización Lógica
+
+---
+
+## 🔌 1. Compuertas Lógicas
+
+* **¿Qué es?**
+  * Circuitos electrónicos diseñados para operar con valores binarios.
+  * Manejan estados representados por niveles lógicos discretos (0 y 1).
+  * Construidas físicamente mediante transistores, diodos y resistencias.
+* **¿Cómo se aplica?**
+  * Su comportamiento se define mediante leyes del Álgebra Booleana.
+  * Se representan gráficamente usando símbolos específicos internacionales.
+  * Se analizan con Tablas de Verdad para describir la salida.
+* **¿Dónde se aplica en computación?**
+  * Base de ingeniería para fabricar Circuitos Integrados (CI) comerciales.
+  * Permiten determinar la función lógica de microprocesadores y hardware.
+* **Ejemplo Práctico:**
+  * Compuerta AND con operación de producto lógico directo.
+  * Salida alta (1) sólo si todas las entradas valen 1.
+  ```text
+  Si entrada A = 1 y entrada B = 1, entonces Salida x = 1
+  ```
+
+---
+
+## 📜 2. Leyes y Teoremas del Álgebra de Boole
+
+* **¿Qué es?**
+  * Conjunto formal de reglas, axiomas y teoremas lógicos matemáticos.
+  * Estructuran el razonamiento mediante variables que adoptan dos valores.
+  * Operan únicamente sobre los estados: 0 (Bajo) y 1 (Alto).
+* **¿Cómo se aplica?**
+  * Se utilizan para realizar transformaciones algebraicas en sentencias lógicas.
+  * Reducen expresiones booleanas complejas a sus formas más simples.
+* **¿Dónde se aplica en computación?**
+  * Garantizan la consistencia lógica interna en algoritmos informáticos.
+  * Optimizan el diseño de circuitos digitales ahorrando componentes físicos.
+
+### 📊 Tabla de Teoremas y Leyes del Álgebra Booleana
+
+| Categoría | Teorema / Ley | Expresión Matemática |
+| :--- | :--- | :--- |
+| **Identidades Básicas** | Elemento Neutro / Nulo | \(x \cdot 0 = 0\) <br> \(x + 1 = 1\) |
+| | Identidad | \(x \cdot 1 = x\) <br> \(x + 0 = x\) |
+| | Idempotencia | \(x \cdot x = x\) <br> \(x + x = x\) |
+| | Complemento | \(x \cdot \neg x = 0\) <br> \(x + \neg x = 1\) |
+| **Leyes Algebraicas** | Conmutativa | \(x + y = y + x\) <br> \(x \cdot y = y \cdot x\) |
+| | Asociativa | \(x + (y + z) = (x + y) + z\) <br> \(x(yz) = (xy)z\) |
+| | Distributiva | \(x(y + z) = xy + xz\) <br> \((w + x)(y + z) = wy + xy + wz + xz\) |
+| | Absorción | \(x + xy = x\) <br> \(A \cdot (A + B) = A\) |
+| | Simplificación Adicional | \(x + \neg x y = x + y\) |
+| **Teoremas Clave** | De Morgan | \(\neg(x + y) = \neg x \cdot \neg y\) <br> \(\neg(x \cdot y) = \neg x + \neg y\) |
+| | Consenso Dual | \((X + Y)(\neg X + Z)(Y + Z) = (X + Y)(\neg X + Z)\\) |
+| | Expansión de Shannon | \(f = x \cdot f_x + \neg x \cdot f_{\neg x}\) |
+| | Resolución Booleana | \(\frac{A \lor B, \quad \neg A \lor C}{B \lor C}\) *(Regla de inferencia)* |
+
+---
+
+## 🗺️ 3. Mapas de Karnaugh (K-Maps)
+
+* **¿Qué es?**
+  * Método gráfico sistemático utilizado para simplificar ecuaciones lógicas de raíz.
+  * Transforma tablas de verdad en circuitos lógicos de manera ordenada.
+  * Procedimiento altamente práctico para problemas de hasta 5 variables.
+
+### 🛠️ Pasos para Construir y Resolver un Mapa
+
+1. **Construcción del mapa:** Se organiza una matriz o diagrama de celdas. Los cuadros adyacentes deben diferir en una sola variable aplicando Código Gray.
+2. **Transferencia de datos:** Se colocan los "1" en las celdas de la cuadrícula. Corresponden a los resultados altos de la tabla de verdad.
+3. **Identificación de "unos" aislados:** Primer paso estratégico esencial del mapa. Consiste en marcar aquellos "1" que no poseen vecinos adyacentes.
+4. **Localización de pares forzosos:** Identificar estados "1" que posean un único vecino. Permiten amarrar grupos mínimos cerrados de dos elementos.
+5. **Agrupamiento de potencias de 2:** Realizar agrupaciones masivas de celdas lógicas válidas. Siguen estrictamente la progresión exponencial geométrica \(2^n\) (1, 2, 4, 8).
+6. **Priorización de grupos grandes:** Buscar octetos (8) primero, luego cuádruples (4). Dejar los pares (2) al final, reusando "unos" ya agrupados.
+7. **Suma de resultados:** La función simplificada final se construye sumando los términos. Consiste en la unión lógica de cada grupo simplificado.
+
+### 📐 Diferentes Agrupaciones de "Unos"
+
+* **Pares (Grupo de 2 términos):** Formados por dos "1" adyacentes continuos. Eliminan exactamente una variable de la expresión original combinada.
+* **Cuádruples (Grupo de 4 términos):** Bloques adyacentes en línea o cuadrados de 2x2. Resultan más efectivos que los pares para la simplificación.
+* **Octetos (Grupo de 8 términos):** Agrupaciones masivas de alta prioridad en la tabla. Simplifican la función anulando tres variables directamente.
+
+### 💡 Estrategias Clave para la Simplificación
+
+* **Minimización de grupos:** El objetivo principal es usar la menor cantidad posible de lazos. Se busca cubrir la totalidad de los "unos" del mapa.
+* **Solapamiento permitido:** Es válido y necesario que un "1" comparta múltiples lazos. Ayuda a consolidar grupos de mayor dimensión para simplificar más.
+* **Reducción de errores:** Su uso automatizado visual mitiga fallas en la síntesis. Reduce la probabilidad de cometer errores frente al álgebra manual pura.
+
 # ⚡ Conceptos Avanzados de Álgebra Booleana
 
 A continuación se detallan tres teoremas fundamentales utilizados en la minimización de funciones lógicas, síntesis de hardware y verificación formal de sistemas en la Ingeniería de la Computación.

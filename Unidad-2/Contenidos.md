@@ -1,3 +1,5 @@
+<a href="../README.md"><code>◀ Regresar al Índice (README)</code></a>
+
 # 🎛️ Fundamentos de Circuitos y Optimización Lógica
 
 ---
@@ -189,3 +191,10 @@ Resolvente obtenido: Y + Z
 
 ---
 
+<br>
+
+
+<p align="right">
+  <a href="../README.md"><code>◀ Regresar al Índice</code></a>
+  <a href="#top"><code>▲ Subir</code></a>
+</p>

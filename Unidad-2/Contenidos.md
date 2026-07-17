@@ -37,23 +37,25 @@
   * Garantizan la consistencia lógica interna en algoritmos informáticos.
   * Optimizan el diseño de circuitos digitales ahorrando componentes físicos.
 
+
 ### 📊 Tabla de Teoremas y Leyes del Álgebra Booleana
 
 | Categoría | Teorema / Ley | Expresión Matemática |
 | :--- | :--- | :--- |
-| **Identidades Básicas** | Elemento Neutro / Nulo | \(x \cdot 0 = 0\) <br> \(x + 1 = 1\) |
-| | Identidad | \(x \cdot 1 = x\) <br> \(x + 0 = x\) |
-| | Idempotencia | \(x \cdot x = x\) <br> \(x + x = x\) |
-| | Complemento | \(x \cdot \neg x = 0\) <br> \(x + \neg x = 1\) |
-| **Leyes Algebraicas** | Conmutativa | \(x + y = y + x\) <br> \(x \cdot y = y \cdot x\) |
-| | Asociativa | \(x + (y + z) = (x + y) + z\) <br> \(x(yz) = (xy)z\) |
-| | Distributiva | \(x(y + z) = xy + xz\) <br> \((w + x)(y + z) = wy + xy + wz + xz\) |
-| | Absorción | \(x + xy = x\) <br> \(A \cdot (A + B) = A\) |
-| | Simplificación Adicional | \(x + \neg x y = x + y\) |
-| **Teoremas Clave** | De Morgan | \(\neg(x + y) = \neg x \cdot \neg y\) <br> \(\neg(x \cdot y) = \neg x + \neg y\) |
-| | Consenso Dual | \((X + Y)(\neg X + Z)(Y + Z) = (X + Y)(\neg X + Z)\\) |
-| | Expansión de Shannon | \(f = x \cdot f_x + \neg x \cdot f_{\neg x}\) |
-| | Resolución Booleana | \(\frac{A \lor B, \quad \neg A \lor C}{B \lor C}\) *(Regla de inferencia)* |
+| **Identidades Básicas** | Elemento Neutro / Nulo | $x \cdot 0 = 0$ <br> $x + 1 = 1$ |
+| | Identidad | $x \cdot 1 = x$ <br> $x + 0 = x$ |
+| | Idempotencia | $x \cdot x = x$ <br> $x + x = x$ |
+| | Complemento | $x \cdot \bar{x} = 0$ <br> $x + \bar{x} = 1$ |
+| **Leyes Algebraicas** | Conmutativa | $x + y = y + x$ <br> $x \cdot y = y \cdot x$ |
+| | Asociativa | $x + (y + z) = (x + y) + z$ <br> $x(yz) = (xy)z$ |
+| | Distributiva | $x(y + z) = xy + xz$ <br> $(w + x)(y + z) = wy + xy + wz + xz$ |
+| | Absorción | $x + xy = x$ <br> $A \cdot (A + B) = A$ |
+| | Simplificación Adicional | $x + \bar{x}y = x + y$ |
+| **Teoremas Clave** | De Morgan | $\overline{(x + y)} = \bar{x} \cdot \bar{y}$ <br> $\overline{(x \cdot y)} = \bar{x} + \bar{y}$ |
+| | Consenso Dual | $(X + Y)(\bar{X} + Z)(Y + Z) = (X + Y)(\bar{X} + Z)$ |
+| | Expansión de Shannon | $f = x \cdot f_x + \bar{x} \cdot f_{\bar{x}}$ |
+| | Resolución Booleana | $\frac{A \lor B, \; \neg A \lor C}{B \lor C}$ *(Regla de inferencia)* |
+
 
 ---
 

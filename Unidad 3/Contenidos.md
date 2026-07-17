@@ -376,3 +376,10 @@ A continuación se presenta un cuadro técnico consolidado que compara los tres 
 
 ---
 
+<br>
+
+
+<p align="right">
+  <a href="../README.md"><code>◀ Regresar al Índice</code></a>
+  <a href="#top"><code>▲ Subir</code></a>
+</p>
